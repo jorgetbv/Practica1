@@ -7,7 +7,6 @@ import OpcionesTabCalificaciones from '../OpcionesCalificacionesTecnico';
 class TablaTecnico extends React.Component {
 	
 	render() {
-		Throw new URIError();
 		return (
 			<div>
 				<Grid>
